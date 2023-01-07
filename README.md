@@ -16,11 +16,11 @@ Para executar o ETHDaddy localmente em sua máquina, siga os seguintes passos:
 3. Clone o repositório do ETHDaddy em sua máquina.
    - Exemplo: `git clone https://github.com/nironwp/ETHDaddy.git`
 4. Navegue até a pasta do repositório do ETHDaddy no terminal e instale as dependências do projeto usando o npm: `npm install`.
-5. Inicie a rede local Hardhat executando o comando `hardhat node` no terminal.
+5. Inicie a rede local Hardhat executando o comando `npx hardhat node` no terminal.
 6. Conecte o MetaMask à rede local Hardhat, caso não saiba consulte a seguinte sessão
 7. Faça o deploy do contrato ETHDaddy para a rede local Hardhat usando o MetaMask.
 8. Teste o contrato ETHDaddy usando o arquivo de testes fornecido.
-   - Exemplo: `hardhat test`
+   - Exemplo: `npx hardhat test`
 
 ## Introdução
 
