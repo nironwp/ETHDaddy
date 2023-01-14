@@ -52,7 +52,7 @@ const loadBlockchainData = async () => {
   setETHDaddy(ethDaddy)
   // ...
 }
-
+```
 ## Configurando a rede local Hardhat com o MetaMask
 
 Se você já tem o MetaMask instalado e uma rede local Hardhat iniciada e deseja apenas configurar o MetaMask para se conectar à rede local, siga os seguintes passos:
